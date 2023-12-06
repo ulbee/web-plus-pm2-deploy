@@ -6,8 +6,8 @@ const {
 
 module.exports = {
   apps: [{
-    name: 'api-mesto',
-    script: './dist/app.js',
+    name: 'mesto',
+    script: 'dist/app.js',
   }],
 
   deploy: {
